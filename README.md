@@ -4,12 +4,14 @@
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-[![Linkedin Badge](https://img.shields.io/badge/-AliShakiba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alishakiba1/)](https://www.linkedin.com/in/alishakiba1/)
-[![Instagram Badge](https://img.shields.io/badge/-AliShakiba_pm-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alishakiba_pm/)](https://instagram.com/alishakiba_pm)
+[![Linkedin Badge](https://img.shields.io/badge/-AliShakiba-blue??style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alishakiba1/)](https://www.linkedin.com/in/alishakiba1/)
+[![Instagram Badge](https://img.shields.io/badge/-AliShakiba_pm-purple?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/alishakiba_pm/)](https://instagram.com/alishakiba_pm)
 [![Gmail Badge](https://img.shields.io/badge/-Prance5731.mania@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:prance5731.mania@gmail.com)](mailto:prance5731.mania@gmail.com)
 
 
 
+![Instagram](https://img.shields.io/badge/-AliShakiba_pm-purple?style=for-the-badge&logo=Instagram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/-AliShakiba-blue??style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### 🔨 Technologies and Languages :
 
@@ -19,6 +21,8 @@
 ![NEXT](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
