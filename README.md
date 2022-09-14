@@ -1,8 +1,16 @@
-### Hi there 👋
+
+
+<h1 align="center"> Hello World <img src="hand-wave.gif" width="40" height="40"> I'm Ali</h1>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alishakiba1/)](https://www.linkedin.com/in/alishakiba1/)
+[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alishakiba_pm/)](https://instagram.com/alishakiba_pm)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prance5731.mania@gmail.com)](mailto:prance5731.mania@gmail.com)
+
 
 <!--
 **AliShakiba1/AliShakiba1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h3 align="center">A passionate, hungry-learner web developer</h3>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
