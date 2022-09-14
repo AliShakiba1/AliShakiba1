@@ -6,8 +6,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/AliShakiba-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alishakiba1/)](https://www.linkedin.com/in/alishakiba1/)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alishakiba1/)](https://www.linkedin.com/in/alishakiba1/)
+
 [![Instagram Badge](https://img.shields.io/badge/-AliShakiba_pm-purple?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/alishakiba_pm/)](https://instagram.com/alishakiba_pm)
+
 [![Gmail Badge](https://img.shields.io/badge/-Prance5731.mania@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:prance5731.mania@gmail.com)](mailto:prance5731.mania@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/prance0)](https://t.me/prance0)
 
@@ -35,6 +36,9 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
