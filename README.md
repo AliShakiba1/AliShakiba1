@@ -4,13 +4,13 @@
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-[![Linkedin Badge](https://img.shields.io/badge/-AliShakiba-blue??style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alishakiba1/)](https://www.linkedin.com/in/alishakiba1/)
+[![Linkedin Badge](https://img.shields.io/badge/AliShakiba-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alishakiba1/)](https://www.linkedin.com/in/alishakiba1/)
 [![Instagram Badge](https://img.shields.io/badge/-AliShakiba_pm-purple?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/alishakiba_pm/)](https://instagram.com/alishakiba_pm)
 [![Gmail Badge](https://img.shields.io/badge/-Prance5731.mania@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:prance5731.mania@gmail.com)](mailto:prance5731.mania@gmail.com)
-
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/prance0)](https://t.me/prance0)
 
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
 
 ### 🔨 Technologies and Languages :
 
