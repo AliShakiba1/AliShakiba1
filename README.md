@@ -3,9 +3,9 @@
 <h1 align="center"> Hello World <img src="hand-wave.gif" width="40" height="40"> I'm Ali</h1>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alishakiba1/)](https://www.linkedin.com/in/alishakiba1/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alishakiba_pm/)](https://instagram.com/alishakiba_pm)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prance5731.mania@gmail.com)](mailto:prance5731.mania@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-AliShakiba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alishakiba1/)](https://www.linkedin.com/in/alishakiba1/)
+[![Instagram Badge](https://img.shields.io/badge/-AliShakiba_pm-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alishakiba_pm/)](https://instagram.com/alishakiba_pm)
+[![Gmail Badge](https://img.shields.io/badge/-prance5731.mania@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prance5731.mania@gmail.com)](mailto:prance5731.mania@gmail.com)
 
 
 <!--
