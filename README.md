@@ -61,7 +61,7 @@
 
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/AliShakiba1/github-stats-transparent'>
   
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)
 
